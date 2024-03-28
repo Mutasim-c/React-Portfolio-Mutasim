@@ -9,4 +9,17 @@ Currently, two official plugins are available:
 
 ## Description
 
-My task is to create a portfolio using my new React skills, which will help set me apart from other developers whose portfolios don’t use the latest technologies. I've deploy this application to Netlify.
+My task is to create a portfolio using my new React skills, which will help set me apart from other developers whose portfolios don’t use the latest technologies. I've deploy this application to Render.
+
+## Screen Shots
+![s](./img/Capture.PNG)
+
+## installation
+
+'npm install'
+
+'npm start'
+
+## Link
+
+https://react-portfolio-mutasim.onrender.com
