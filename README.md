@@ -22,4 +22,4 @@ My task is to create a portfolio using my new React skills, which will help set 
 
 ## Link
 
-https://react-portfolio-mutasim.onrender.com
+https://mutasim-react-portfolio.netlify.app
