@@ -1,10 +1,10 @@
 import html from '../images/html.png';
-import advanced from '../images/advancedCSS.PNG';
-import OOP from '../images/OOP.PNG';
-import pwa from '../images/PWA.PNG';
-import api from './images/api.gif';
+import advanced from '../images/advancedCSS.png';
+import OOP from '../images/OOP.png';
+import pwa from '../images/PWA.png';
+import api from '../images/api.gif';
 
-const github = [
+export const data = [
     {
         name : "01-HTML-CSS-and-Git-Code-Refactor-Mutasim",
         image: html,
@@ -37,4 +37,3 @@ const github = [
 
 ];
 
-export default github;
